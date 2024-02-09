@@ -2,8 +2,8 @@
     "https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html",
     "https://vanprep.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html",
     "https://cdpprep.trizettoconnect.com/tzf/costestimator/uicostestimator/", 
-    "https://epfprep.trizettoconnect.com/tzf/terminology/uiterminology/",
-   "https://epfprep.trizettoconnect.com/tzf/terminology/uiterminology/auth.html",
-   "https://epfprep.trizettoconnect.com/tzf/terminology/uiterminology/silent-renew.html",
+    "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator//",
+   "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator//auth.html",
+   "https://epfprep.trizettoconnect.com/tzf/costestimator/uicostestimator//silent-renew.html",
    "https://connectedhealthnonprod.b2clogin.com/connectedhealthnonprod.onmicrosoft.com/oauth2/authresp"
 ]

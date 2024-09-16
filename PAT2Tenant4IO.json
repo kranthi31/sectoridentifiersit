@@ -1,5 +1,6 @@
 [
  "https://pat2tenant4.healthtranzformdev.com",
+ "https://pat2tenant4.healthtranzformdev.com/identity",
  "https://pat2tzinterop.developer.healthtranzformdev.com",
  "https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/b2c_1a_PAT2_signin/oauth2"
 ]

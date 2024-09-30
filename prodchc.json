@@ -1,10 +1,6 @@
 [
- "https://pat2tenant4.healthtranzformdev.com",
- "https://pat2tenant4.healthtranzformdev.com/identity",
- "https://pat2tzinterop.developer.healthtranzformdev.com",
- "https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/b2c_1a_PAT2_signin/oauth2",
- "https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/oauth2/authresp",
-"https://integtenant.b2clogin.com/integtenant.onmicrosoft.com/b2c_1a_PAT2_signin/oauth2/authresp",
-"https://pat2tzinterop.developer.healthtranzformdev.com/signin-oauth/code/callback/get-token",
-"https://oidcdebugger.com/debug"
+"https://connectedhealthtz.b2clogin.com/connectedhealthtz.onmicrosoft.com/oauth2/authresp",
+"https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/",
+"https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/auth.html", 
+"https://wps.trizettoconnect.com/tzf/costestimator/uicostestimator/silent-renew.html" 
 ]

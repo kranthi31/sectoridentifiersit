@@ -1,5 +1,5 @@
 [
-   "https://interopsit.b2clogin.com/interopsit.onmicrosoft.com",
+   "https://interopsit.b2clogin.com/interopsit.onmicrosoft.com/oauth2/authresp",
    "https://interopsit.trizettoconnect.com/identity/",
    "https://oidcdebugger.com/debug"
 ]
